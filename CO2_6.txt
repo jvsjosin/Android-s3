@@ -1,7 +1,4 @@
-Program No:6
-
-
-Design a simple Calculator using GridLayout and Cascaded LinearLayout....
+Program No:2.6
 
 package com.example.myapplicationc02_2;
 
