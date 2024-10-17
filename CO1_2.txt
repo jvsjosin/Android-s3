@@ -1,6 +1,4 @@
-program No:1
-Design a Login Form with username and password using LinearLayout and toast valid
-credentials..
+program No:2
 
 package com.example.myapplication;
 
