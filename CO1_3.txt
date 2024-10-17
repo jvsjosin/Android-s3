@@ -1,7 +1,5 @@
 
 Program No:3
-Implementing basic arithmetic operations of a simple calculator...
-
 
 
 package com.example.myapplication;
