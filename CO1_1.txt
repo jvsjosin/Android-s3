@@ -1,7 +1,4 @@
-Program No:2
-Write a program that demonstrates Activity Lifecycle...
-
-
+Program No:1
 
 package com.example.myapplication;
 
